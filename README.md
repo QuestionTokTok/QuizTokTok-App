@@ -1,4 +1,4 @@
-# Quiz TakTak Frontend
+# QuizTokTOk App
 
 퀴즈 톡톡은 GPT를 사용해서 복습을 돕는 문제 생성 어플리케이션입니다.
 
