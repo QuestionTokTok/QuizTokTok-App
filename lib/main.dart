@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
       getPages: [ // 스크린 지정
         GetPage(
           name: '/',
-          page: () => Home1Screen(),
+          page: () => HomeScreen(),
         ),
         GetPage(
           name: '/community',
@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
 
       ],
       title: 'Flutter Demo',
-      home: const TestView(),
+      home: const LoginScreen(),
     );
   }
 }
